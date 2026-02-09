@@ -1,0 +1,67 @@
+header  {
+  text-align: center;
+  align-items: center;
+}
+
+.contact-card {
+  text-align: left;
+  display: inline-block;
+  width: 200px;
+  margin: 0 0 20px 20px;
+  border-radius: 4px;
+}
+
+.card-label {
+  font-weight: bold;
+}
+
+#toolbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.message.success {
+  color: green;
+}
+
+.message.error {
+  color: red;
+}
+
+#contact-filters {
+  margin: 20px 0;
+  display: flex;          
+  justify-content: center;
+  align-items: center;    
+  gap: 1rem;              
+}
+
+#create-actions {
+  margin: 20px 0;
+  display: flex;           
+  justify-content: center; 
+  align-items: flex-start;     
+  gap: 1rem;               
+}
+
+#contact-form {
+  margin: 2rem auto;
+  max-width: 600px;
+}
+
+#contact-form > h2 {
+  text-align: center;
+}
+
+#tag-action {
+  display: flex;
+  flex-wrap: wrap;          
+  align-items: center;
+  gap: 0.5rem;              
+}
+
+#tag-msg {
+  min-height: 1.2em;
+}

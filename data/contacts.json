@@ -1,0 +1,37 @@
+[
+  {
+    "id": 2,
+    "full_name": "Victor Reyes",
+    "email": "vpr@example.com",
+    "phone_number": "09876543210",
+    "tags": "work,friend"
+  },
+  {
+    "id": 3,
+    "full_name": "Pete Hanson",
+    "email": "ph@example.com",
+    "phone_number": "54321098761",
+    "tags": null
+  },
+  {
+    "full_name": "Xiran Lu",
+    "phone_number": "6692463887",
+    "email": "xlu92427@gmail.com",
+    "tags": "family",
+    "id": 4
+  },
+  {
+    "full_name": "Yu Zhao",
+    "phone_number": "6692463887",
+    "email": "xlu92427@gmail.com",
+    "tags": "friend",
+    "id": 5
+  },
+  {
+    "full_name": "Yu Zhao",
+    "phone_number": "6519557602",
+    "email": "zhaoyu92@yahoo.com",
+    "tags": "大灰灰",
+    "id": 6
+  }
+]
